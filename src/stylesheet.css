@@ -1,4 +1,15 @@
 h1{
 	text-align: center;
-	color: red;
+	color: MediumSeaGreen;
+}
+#mydiv{
+	color: black;
+	width: 35%;
+	margin: auto;
+	text-align: center;
+	font-family: Arial;
+	font-size: 20px;
+}
+body{
+	background-color: linen;
 }
